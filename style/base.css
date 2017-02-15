@@ -1,0 +1,22 @@
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}
+body { font-size:12px; color: #000;  }
+img { border:none; }
+.clearfix:after{content:"";display:block;clear:both;}
+.clearfix{zoom:1;}
+.fl{float:left; display:inline;}
+.fr{float:right;display:inline;}
+ul,li { list-style:none;}
+p { /*text-indent:0.5cm;*/ }
+a { text-decoration:none; cursor:hand; color:#000; }
+.comWidth{width:2000px; margin:0 auto;}
+/*定位排版*/
+tc{ text-align:center;}
+pr{ position:relative;}
+pa{ position:absolute;}
+mt20{ margin-top:20px;}
+mb20{ margin-bop:20px;}
+ml20{ margin-lop:20px;}
+mr20{ margin-rop:20px;}
+
+
+
